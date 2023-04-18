@@ -2,16 +2,16 @@
 # Curated from sources online.     https://github.com/mcintosh109/Pi-Hole_my_blocklist
 # Last updated: 11 december 2019
 
-||youtube.com^
-||googlevideo.com^
-||r3---sn-o097znlk.googlevideo.com^
-||r5---sn-n4v7knlk.googlevideo.com^
-||r5---sn-n4v7sn7y.googlevideo.com^
-||r5---sn-vgqskned.googlevideo.com^
-||r6---sn-o097znl6.googlevideo.com^
-||r4---sn-n4v7sney.googlevideo.com^
-||r1---sn-n4v7knlk.googlevideo.com^
-||r1---sn-n4v7snee.googlevideo.com^
+||youtube.com^$ctag=~user_regular
+||googlevideo.com^$ctag=~user_regular
+||r3---sn-o097znlk.googlevideo.com^$ctag=~user_regular
+||r5---sn-n4v7knlk.googlevideo.com^$ctag=~user_regular
+||r5---sn-n4v7sn7y.googlevideo.com^$ctag=~user_regular
+||r5---sn-vgqskned.googlevideo.com^$ctag=~user_regular
+||r6---sn-o097znl6.googlevideo.com^$ctag=~user_regular
+||r4---sn-n4v7sney.googlevideo.com^$ctag=~user_regular
+||r1---sn-n4v7knlk.googlevideo.com^$ctag=~user_regular
+||r1---sn-n4v7snee.googlevideo.com^$ctag=~user_regular
 ||r4---sn--nx5e6n76.googlevideo.com^
 ||r6---sn--aigl6n76.googlevideo.com^
 ||r3---sn--npoe7n76.googlevideo.com^
@@ -217,6 +217,6 @@
 ||r4---sn-t0a7ln7d.googlevideo.com^
 ||r5---sn-n4v7sn7s.googlevideo.com^
 ||r6---sn-n4v7sn7l.googlevideo.com^
-||ytimg.com^
-||youtubei.googleapis.com^
-||youtube-nocookie.com^
+||ytimg.com^$ctag=~user_regular
+||youtubei.googleapis.com^$ctag=~user_regular
+||youtube-nocookie.com^$ctag=~user_regular
